@@ -1,7 +1,6 @@
 ---
 layout: post
 lang: ko
-categories: Code
 ---
 
 간단한 Thread Pool Library
