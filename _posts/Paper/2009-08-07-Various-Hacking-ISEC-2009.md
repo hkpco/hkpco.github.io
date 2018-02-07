@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: ko
+categories: Paper
 
 ---
 
