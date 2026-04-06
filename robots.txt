@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://hkpco.kr/sitemap.xml
+
+Sitemap: https://hkpco.github.io/sitemap.xml
